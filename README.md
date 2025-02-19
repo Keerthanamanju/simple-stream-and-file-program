@@ -44,6 +44,7 @@ writer.newLine();
 }
 }
 OUTPUT
+run:
 ALICE
 BOB
 CHARLIE
